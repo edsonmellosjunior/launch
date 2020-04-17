@@ -1,0 +1,11 @@
+{"type":"cosmos-sdk/StdTx","value":{"msg":[{"type":"cosmos-sdk/MsgCreateValidator","value":{
+"description":{"moniker":"[[YOUR_MONIKER]]","identity":"","website":"","details":""},"commis
+sion":{"rate":"0.100000000000000000","max_rate":"0.200000000000000000","max_change_rate":"0.
+010000000000000000"},"min_self_delegation":"1","delegator_address":"band1yjszatv32mqtky8ua5k
+8jd8szc5a7u24ee2juy","validator_address":"bandvaloper1yjszatv32mqtky8ua5k8jd8szc5a7u2440w3e0
+","pubkey":"bandvalconspub1addwnpepqg4xssc4jtacnft3c0504pfg3mc9j7j4t0c4pn3tfjuzfsxw9uuu6ze4u
+yd","value":{"denom":"uban","amount":"1000000"}}}],"fee":{"amount":[],"gas":"200000"},"signa
+tures":[{"pub_key":{"type":"tendermint/PubKeySecp256k1","value":"A2ibdsTO++29b39CnZfE396sXNp
+2beUu5nktBbcktj2X"},"signature":"qeoHqSqooLR4sVnLOahU9tnPivcTGwLnc9VtED/rdVgtTG4MMZ0XJCCuA8A
+ImUESWikrQA2Y+EY8lMSkMJnwWQ=="}],"memo":"16f1ce8279627105c02649911e645f46f9d2badc@10.180.0.2
+:26656"}}
